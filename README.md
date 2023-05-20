@@ -1,5 +1,4 @@
 # engulf.sh 
-### =========
 
 A simple script to "swallow" the terminal while launching zathura. What's so special?
 It can use fzf too! No more hunting for the write file inside zathura!

@@ -7,6 +7,6 @@ Disclaimer: It doesn't work with any file manager (ranger/sfm/thunar), only the 
 
 ### usage
 ```
-./engulf.sh zathura fzf # launches fzf, select a file and zathura opens it 
+./engulf.sh zathura fzf 
 ```
-You can use it with mpv too. If you don't want to launch with fzf, you can just launch without the 2nd argument.
+You can use it with mpv too. If you don't want to launch with fzf, you can just launch without the 2nd argument. The 2nd argument can be a file too.

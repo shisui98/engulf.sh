@@ -17,10 +17,10 @@ With fzf:
 ```
 
 You can open files directly as well:
-`
+```
 ./engulf.sh zathura FILENAME
-`
-With rifle/ranger if xdg-open is set to `engulf.sh zathura`
-`
+```
+With rifle/ranger if xdg-open is set to `engulf.sh zathura`:
+```
 rifle FILENAME
-`
+```
